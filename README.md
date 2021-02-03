@@ -10,7 +10,7 @@ Paneer or Indian cottage cheese is a fresh cheese common in the **Indian subcont
 4. A page with basic information is displayed.
    1. Enter details such as user name, password, mail id etc.
    2. submit the details and sign up.
-5.Now login with the new credentials you will end up signing in a website.
+5. Now login with the new credentials you will end up signing in a website.
 
 - Internet access.
 - Email id.
