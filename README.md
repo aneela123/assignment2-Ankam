@@ -17,3 +17,14 @@ Paneer or Indian cottage cheese is a fresh cheese common in the **Indian subcont
 
 **[About me](AboutMe.md)**
 
+---
+## Recommended places to visit
+Some of my recommended places for someone to visit are
+
+|Location |  Spending Hours | Amount to be spent |
+| :---: | :---: | :---: |
+|Delhi     |  24            | 50$       |
+|Rajasthan |  48             | 75$      |
+|Mumbai    |  34             | 80$       |
+|Bangalore  | 48              | 120$      |
+
