@@ -2,6 +2,8 @@
 # Jahna Sri Aneela Ankam
 ###### Paneer
 Paneer or Indian cottage cheese is a fresh cheese common in the **Indian subcontinent** made from cow or buffalo milk. I like it because it contains vitamin E and anti oxidants which is good for health.
+
+![Paneer](images/paneer.jpg)
 ***
 ***Sign up process for a website***
 1. Open the web site in which you want to sign up with an account.
@@ -27,6 +29,11 @@ Some of my recommended places for someone to visit are
 |Rajasthan |  48             | 75$      |
 |Mumbai    |  34             | 80$       |
 |Bangalore  | 48              | 120$      |
+
+![Delhi](images/delhi.jpg)
+![Rajasthan](images/rajasthan.jpg)
+![Mumbai](images/mumbai.jpg)
+![Bangalore](images/bangalore.jpg)
 
 ---
 ## Quotes
