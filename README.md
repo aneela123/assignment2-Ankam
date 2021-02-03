@@ -35,3 +35,16 @@ Some of my recommended places for someone to visit are
 
 > "you only live once, but if you do it right, once is enough." - *Mae West.*
 
+---
+## Code Fencing
+
+>SQL is a (Structured Query Language) domain specific language used in programming and desgined for managing data held in a relational database management system(RDBMS), or for stream proccessing in a relational data stream management system (RDMS).
+
+Source Link <https://en.wikipedia.org/wiki/SQL>
+
+```
+SELECT * FROM Customers;
+
+```
+code source <https://www.w3schools.com/sql/sql_syntax.asp>
+
