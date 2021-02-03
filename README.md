@@ -28,3 +28,10 @@ Some of my recommended places for someone to visit are
 |Mumbai    |  34             | 80$       |
 |Bangalore  | 48              | 120$      |
 
+---
+## Quotes
+
+> "Life is what happens when you' re busy making other plans." - *John Lennon.*
+
+> "you only live once, but if you do it right, once is enough." - *Mae West.*
+
